@@ -1,30 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-What if they send me the wrong order?  
-is this working?
-adding something to the feature branch
-adding more to the feature branch
-and adding even more to the feature branch
-checking to see if I can alter test branch and commit
-at this point I'm just practicing git
-adding lines to test branch
->>>>>>> test
-trying to handle a merge conflict
-one more line than master
-does this line exist on master too?
-testing this again
-adding a line to test that is way better than master
-trying to create a merge conflict by making this line different than master
-this line is intended to create a merge conflict
-I'm adding this line as part of the exercise step 2a
-=======
 1. Decide which business to order from
 2. Decide which type of pizza to order
 	2a think about what toppings you want.
 	2b Do you want more than one pizza?
 	2c Are you looking for the very very best thick crust or the best original?
 3. Do you want any sides?
-Making changes per the exercise
-
->>>>>>> final
